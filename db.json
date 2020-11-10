@@ -2,7 +2,9 @@
   "userDetails": [
     {
       "user": {
-        "name": "Udit Singhal",
+        "firstname": "Udit",
+        "lastname": "Singhal",
+        "phonenumber": "9760833224",
         "email": "udit@gmail.com",
         "password": "Udit@1234"
       },
@@ -10,11 +12,63 @@
     },
     {
       "user": {
-        "name": "Udit Singhal",
+        "firstname": "Udit",
+        "lastname": "Singhal",
+        "phonenumber": "9760833222",
         "email": "udit-singhal@outlook.com",
         "password": "Udit@dude@1234"
       },
       "id": 2
+    },
+    {
+      "user": {
+        "firstname": "Uditz",
+        "lastname": "Singhal",
+        "phonenumber": "9760833223",
+        "email": "vineet@gmail.com",
+        "password": "Vineet@1234"
+      },
+      "id": 3
+    },
+    {
+      "user": {
+        "firstname": "Uditx",
+        "lastname": "Singhal",
+        "phonenumber": "9760833225",
+        "email": "udit@gmail.com",
+        "password": "Udit@dude@1234"
+      },
+      "id": 4
+    },
+    {
+      "user": {
+        "firstname": "Medhashree",
+        "lastname": "Moshat",
+        "phonenumber": "9760833225",
+        "email": "medhashree@gmail.com",
+        "password": "Medhashree@1234"
+      },
+      "id": 4
+    },
+    {
+      "user": {
+        "firstname": "Sabarna",
+        "lastname": "Choudhury",
+        "phonenumber": "9760833225",
+        "email": "sabarna@gmail.com",
+        "password": "Sabarna@1234"
+      },
+      "id": 4
+    },
+    {
+      "user": {
+        "firstname": "Medhashree",
+        "lastname": "Moshat",
+        "phoneNumber": "9112345612",
+        "email": "xyz@gmail.com",
+        "password": "xyz123456"
+      },
+      "id": 5
     }
   ]
 }
